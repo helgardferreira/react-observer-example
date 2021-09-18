@@ -1,3 +1,7 @@
+# React Observer Example
+
+The purpose of this repo is to provide some examples on how to integrate React with the observer pattern (using both class components and function components.)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
